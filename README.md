@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItsSatviK13
-- 👀 I’m interested in ... Tinkering with code
+- 👀 I’m interested in ... playing with code
 - 🌱 I’m currently learning ... Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://www.linkedin.com/in/satvik-mitra-0175jod/
