@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItsSatviK13
 - 👀 I’m interested in ... playing with code
-- 🌱 I’m currently learning ... Python 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Python and Java 
+- 💞️ I’m looking to collaborate on ...Python projects 
 - 📫 How to reach me ... https://www.linkedin.com/in/satvik-mitra-0175jod/
 
 <!---
